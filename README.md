@@ -13,7 +13,10 @@ Its current form it should evolve towards being a statement that is concrete eno
 - With PSP funding drying up, their futures are uncertain despite proven success. A path to expanding on their success to reach all of Philadelphia's students is no where in sight
 - Supplemental programs to give schools extra meaning for their students have the power to change the narrative around public education within the cultural gravity of our major cities and counterbalance the effective segregration of driving enrollment primarily by zip code.
 
-**How do we indefinitely sustain the successful models for supplementing our public schools we already have, and get on a course towards offering the same opportunity to _every_ one of Philadelphia's public high schools?**
+## The Questions
+
+- **How do you leverage modern tools and the resources of a city to transform public education in Philadelphia?**
+- **How do we indefinitely sustain the successful models for supplementing our public schools we already have, and get on a course towards offering the same opportunity to _every_ one of Philadelphia's public high schools?**
 
 ## Proposed Constraints
 
